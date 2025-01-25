@@ -1,4 +1,5 @@
-#Tic-Tac-Toe Game in C++
+Tic-Tac-Toe Game in C++
+
 This repository contains a simple Tic-Tac-Toe game implemented in C++ as a console-based application. The game allows two players to play against each other in real-time, taking turns to place their symbols (X and O) on a 3x3 grid.
 
 Features :
